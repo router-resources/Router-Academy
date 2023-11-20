@@ -1,0 +1,27 @@
+/* Assuming you have a container for the typewriter text */
+
+
+
+.container {
+  position: relative; /* Create a relative positioning context */
+  height: 100vh; /* Adjust the height to your requirement */
+  background-color: rgb(0,0,0,0.3);
+}
+
+.typewriter-container {
+  background-color: rgb(0,0,0,0.3);
+  position: absolute;
+  top: 50%; /* Move the container 50% from the top */
+  left: 80%; /* Move the container 50% from the left */
+  transform: translate(-80%, -80%); /* Center the container both horizontally and vertically */
+}
+#type{
+
+
+  font-family: 'Arial, sans-serif';
+    font-size: '18px';
+    font-weight: 'bold';
+    color: 'rgb(248, 221, 251)';
+    padding: '20px';
+    text-align: 'center'
+}

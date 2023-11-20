@@ -7,7 +7,7 @@ import Nav from 'react-bootstrap/Nav';
 import { Card, Button, Row, Col } from 'react-bootstrap';
 import card1 from './images/card1.png'
 
-import dsa from './images/dsa.jpg'
+import dsa from './images/card1.png'
 import AOS from 'aos';
 import 'aos/dist/aos.css'; 
 import Navbar from 'react-bootstrap/Navbar';

@@ -1,0 +1,15 @@
+.cbutton{
+
+    display: flex;
+
+height: 42px;
+
+justify-content: space-between;
+align-items: center;
+flex-shrink: 0;
+font-size:12px;
+    border-radius: 8px;
+background: linear-gradient(180deg, #8146FF 0%, #6633D2 100%);
+    color:white
+
+   }

@@ -1,0 +1,68 @@
+.cbutton{
+
+    display: flex;
+padding: 7.794px 12.99px;
+align-items: center;
+gap: 6.495px;
+
+border-radius: 649.519px;
+background: goldenrod;
+
+   }
+   .cbutton0{
+
+    display: flex;
+padding: 7.794px 12.99px;
+align-items: center;
+gap: 6.495px;
+font-size:12px;
+border-radius: 649.519px;
+background: linear-gradient(90deg, rgba(204,0,254,1) 0%, rgba(67,88,247,1) 35%);
+color:white;
+   }
+
+   .buttons{
+    display:flex;
+   }
+
+   .cbutton1{
+
+    display: flex;
+    padding: 7.794px 12.99px;
+    align-items: center;
+    gap: 6.495px;
+    font-size:12px;
+    border-radius: 649.519px;
+  
+    background: linear-gradient(90deg, rgb(252, 69, 240) 0%, rgb(234, 29, 253) 50%, rgba(180,58,153,1) 100%);
+color:white;
+   }
+
+   .cbutton2{
+
+    display: flex;
+    padding: 7.794px 12.99px;
+    align-items: center;
+    gap: 6.495px;
+    font-size:12px;
+    border-radius: 649.519px;
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    color:white;
+    
+   }
+
+   .cbutton3{
+
+    display: flex;
+    padding: 7.794px 12.99px;
+    align-items: center;
+    gap: 6.495px;
+    font-size:12px;
+    border-radius: 649.519px;
+    background: linear-gradient(90deg, rgba(0,215,255,1) 0%, rgba(90,253,29,1) 50%, rgba(252,151,69,1) 100%);
+    color:black;
+    
+   }
+
+
+   
